@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I am Amit Sengupta
+#### Web Developer
+![Web Developer](https://media.licdn.com/dms/image/D5616AQG9bmDJD2Z64w/profile-displaybackgroundimage-shrink_350_1400/0/1697628617801?e=1709164800&v=beta&t=3J2lSGpbbs4WChB4SDuWMekll7BM75twzthypem_xkU)
 
- 
-**Amitsengupta332/Amitsengupta332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Here are some ideas to get you started:
+Skills: HTML / CSS /  JS / MongoDB / EXPRESSJS /  REACTJS /NODEJS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- 
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Amitsengupta332)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/amit-sengupta-400083291//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/amith.sen.37/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://amitsengupta.netlify.app/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amitsengupta332)](https://github.com/anuraghazra/github-readme-stats)
+
