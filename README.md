@@ -1,6 +1,8 @@
+![Web Developer](https://media.licdn.com/dms/image/D5616AQG9bmDJD2Z64w/profile-displaybackgroundimage-shrink_350_1400/0/1697628617801?e=1709164800&v=beta&t=3J2lSGpbbs4WChB4SDuWMekll7BM75twzthypem_xkU)
+
 ### Hi there 👋, I am Amit Sengupta
 #### Web Developer
-![Web Developer](https://media.licdn.com/dms/image/D5616AQG9bmDJD2Z64w/profile-displaybackgroundimage-shrink_350_1400/0/1697628617801?e=1709164800&v=beta&t=3J2lSGpbbs4WChB4SDuWMekll7BM75twzthypem_xkU)
+
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
