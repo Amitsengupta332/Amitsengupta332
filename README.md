@@ -1,6 +1,8 @@
+
+![A passionate Full-Stack developer from Bangladesh](https://media.licdn.com/dms/image/D5616AQFsPS1ZWnDbqg/profile-displaybackgroundimage-shrink_350_1400/0/1712653246494?e=1725494400&v=beta&t=R-TTTfgWDGno6ZrwcMr3SrGT8TkXe1etc163Pz7-Ahw)
+
 ### Hi there 👋, My Name Is Amit Sengupta
-#### A passionate Full-Stack developer from bangladesh
-![A passionate Full-Stack developer from bangladesh](https://media.licdn.com/dms/image/D5616AQFsPS1ZWnDbqg/profile-displaybackgroundimage-shrink_350_1400/0/1712653246494?e=1725494400&v=beta&t=R-TTTfgWDGno6ZrwcMr3SrGT8TkXe1etc163Pz7-Ahw)
+#### A passionate Full-Stack developer from Bangladesh
 
  
 
@@ -8,7 +10,7 @@ Skills: <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel=
 
  
 - 🌱 I’m currently learning React Native 
-- 💬 Ask me about Mern Stack.
+- 💬 Ask me about Mern Stack , Framer Motion 
 - 📫 How to reach me: amitsengupta332@gmail.com 
 
 
@@ -19,5 +21,4 @@ Skills: <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel=
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Amitsengupta332&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Amitsengupta332)  
-
 
