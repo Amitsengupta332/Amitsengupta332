@@ -1,26 +1,4 @@
-
-![A passionate Full-Stack developer from Bangladesh](https://media.licdn.com/dms/image/D5616AQFsPS1ZWnDbqg/profile-displaybackgroundimage-shrink_350_1400/0/1712653246494?e=1725494400&v=beta&t=R-TTTfgWDGno6ZrwcMr3SrGT8TkXe1etc163Pz7-Ahw)
-
-<h1 align="center">Hi 👋, I'm Amit Sengupta</h1>
-<h3 align="center">A passionate Full Stack Developer from bangladesh</h3>
  
-
- 
-
-- 🌱 I’m currently learning React Native 
-- 💬 Ask me about Mern Stack, Framer Motion 
-- 📫 How to reach me: amitsengupta332@gmail.com 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Amitsengupta332)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amit-sengupta-400083291/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/amith.sen.37/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://amitsengupta.netlify.app/)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amitsengupta332)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Amitsengupta332&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Amitsengupta332)  
-
-
 ![A passionate Full-Stack developer from Bangladesh](https://media.licdn.com/dms/image/D5616AQFsPS1ZWnDbqg/profile-displaybackgroundimage-shrink_350_1400/0/1712653246494?e=1725494400&v=beta&t=R-TTTfgWDGno6ZrwcMr3SrGT8TkXe1etc163Pz7-Ahw)
 
 <h1 align="center">Hi 👋, I'm Amit Sengupta</h1>
