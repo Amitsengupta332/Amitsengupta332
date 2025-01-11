@@ -1,5 +1,6 @@
  
-![A passionate Full-Stack developer from Bangladesh]([https://media.licdn.com/dms/image/D5616AQFsPS1ZWnDbqg/profile-displaybackgroundimage-shrink_350_1400/0/1712653246494?e=1725494400&v=beta&t=R-TTTfgWDGno6ZrwcMr3SrGT8TkXe1etc163Pz7-Ahw](https://media.licdn.com/dms/image/v2/D5616AQFsPS1ZWnDbqg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712653246494?e=1741824000&v=beta&t=lQAq1JTTyNUPrE--yKznHpBNuR1hnyjeKlcAOKQ11as))
+![A passionate Full-Stack developer from Bangladesh](https://media.licdn.com/dms/image/v2/D5616AQFsPS1ZWnDbqg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712653246494?e=1741824000&v=beta&t=lQAq1JTTyNUPrE--yKznHpBNuR1hnyjeKlcAOKQ11as)
+
 
 <h1 align="center">Hi 👋, I'm Amit Sengupta</h1>
 <h3 align="center">A passionate Full Stack Developer from bangladesh</h3>
