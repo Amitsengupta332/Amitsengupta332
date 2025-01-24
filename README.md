@@ -1,5 +1,3 @@
-![A passionate Full-Stack developer from Bangladesh](https://media.licdn.com/dms/image/v2/D5616AQFsPS1ZWnDbqg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712653246494?e=1741824000&v=beta&t=lQAq1JTTyNUPrE--yKznHpBNuR1hnyjeKlcAOKQ11as)
-
 <h1 align="center">Hi 👋, I'm Amit Sengupta</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 
@@ -7,21 +5,23 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/amith.sen.37)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://amitsengupta.netlify.app/)  
 
-- 🌱 I’m currently learning React Native  
-- 💬 Ask me about Mern Stack, Framer Motion  
-- 📫 How to reach me: amitsengupta332@gmail.com  
+- 🌱 I’m currently learning **React Native**  
+- 💬 Ask me about **MERN Stack, Framer Motion**  
+- 📫 How to reach me: **amitsengupta332@gmail.com**  
 
 ---
 
-### 📊 GitHub Stats:
+## GitHub Stats
 
-![GitHub Streak Stats](https://streak-stats.demolab.com/?user=Amitsengupta332&theme=dark&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amitsengupta332&layout=compact&theme=dark&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amitsengupta332&show_icons=true&theme=dark&hide_border=true)  
+![GitHub Streak Stats](https://streak-stats.demolab.com/?user=Amitsengupta332&theme=dark&hide_border=true)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Amitsengupta332&show_icons=true&count_private=true)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amitsengupta332&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+## Languages and Tools:
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
