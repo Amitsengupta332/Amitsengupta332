@@ -19,10 +19,9 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=Amitsengupta332&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Amitsengupta332&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -51,14 +50,34 @@
 ---
 
 ## 🚀 Featured Projects
-- [🌐 Portfolio Website](https://amitsengupta.netlify.app/)  
-  My personal portfolio showcasing projects and skills with animations using **Framer Motion**.  
 
-- [🍴 Restaurant Website](https://github.com/Amitsengupta332/restaurant)  
-  A full-stack restaurant app built with **MERN**, including user authentication and admin dashboard.  
+### 🌐 [Portfolio Website](https://amitsengupta.netlify.app/)  
+📌 Personal portfolio showcasing projects, skills, and animations with **Framer Motion**.  
 
-- [📱 React Native Practice](https://github.com/Amitsengupta332) *(Coming Soon!)*  
-  Exploring mobile app development with React Native.  
+[![Repo](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amitsengupta332)  
+![Stack](https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge) 
+![Stack](https://img.shields.io/badge/UI-TailwindCSS-38B2AC?style=for-the-badge) 
+![Stack](https://img.shields.io/badge/Animation-FramerMotion-ff69b4?style=for-the-badge)
+
+---
+
+### 🍴 [Restaurant Website](https://github.com/Amitsengupta332/restaurant)  
+📌 A full-stack restaurant app with **user authentication** and **admin dashboard**.  
+
+[![Repo](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amitsengupta332/restaurant)  
+![Stack](https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge) 
+![Stack](https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge) 
+![Stack](https://img.shields.io/badge/Framework-Express-black?style=for-the-badge) 
+![Stack](https://img.shields.io/badge/Database-MongoDB-4ea94b?style=for-the-badge) 
+![Stack](https://img.shields.io/badge/UI-TailwindCSS-38B2AC?style=for-the-badge)
+
+---
+
+### 📱 [React Native Practice](https://github.com/Amitsengupta332) *(Coming Soon!)*  
+📌 Exploring **mobile app development** with React Native.  
+
+![Stack](https://img.shields.io/badge/Mobile-ReactNative-61DAFB?style=for-the-badge) 
+![Stack](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green?style=for-the-badge)
 
 ---
 
