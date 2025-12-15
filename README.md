@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Sengupta </h1>
 <h3 align="center">🚀 A passionate Full Stack Developer from Bangladesh </h3>
 
-----
+-------
 
 ## 🌐 Connect with Me 😊😊
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-sengupta-400083291/)
