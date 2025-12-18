@@ -12,7 +12,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🌱 I’m currently learning **React Native**  
+- 🌱 I’m currently learning **Postgres**  
 - 💬 Ask me about **MERN Stack, Framer Motion**  
 - 📫 Reach me at **amitsengupta332@gmail.com**
 
