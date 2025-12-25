@@ -2,7 +2,8 @@
 <h3 align="center">Backend-Focused Full Stack Developer 🚀</h3>
 
 <p align="center">
-  I build scalable backend APIs, design clean databases, and craft modern web applications with attention to performance, security, and maintainability.
+  I build scalable backend APIs, design clean databases, and craft modern web applications
+  with attention to performance, security, and maintainability.
 </p>
 
 ---
@@ -11,7 +12,7 @@
 - 🚀 Backend-focused Full Stack Developer  
 - 🛠 Skilled in building **RESTful APIs**, **JWT authentication**, and **role-based access control**
 - 🗄 Strong interest in **PostgreSQL**, database design, normalization & query optimization
-- 🎨 Comfortable with **React, Tailwind CSS & Framer Motion** for clean UI
+- 🎨 Comfortable with **React, Tailwind CSS & Framer Motion**
 - 🌱 Currently deepening knowledge in **PostgreSQL & backend architecture**
 - 📫 Reach me at **amitsengupta332@gmail.com**
 
@@ -37,7 +38,7 @@
 - 🗄 PostgreSQL with proper relationships & constraints
 - 🧱 Clean architecture with structured error handling
 
-**Tech Stack**
+**Tech Stack**  
 `Node.js` · `Express.js` · `TypeScript` · `PostgreSQL` · `JWT`
 
 🔗 **Live API:** https://assinment-2-vehicle-renting-system.vercel.app/  
@@ -49,11 +50,11 @@
 📌 Full-stack restaurant application with admin and user roles.
 
 - 🔐 Authentication & authorization
-- 📊 Admin dashboard for management
+- 📊 Admin dashboard
 - ⚙️ RESTful backend APIs
 - 🎨 Responsive frontend UI
 
-**Tech Stack**
+**Tech Stack**  
 `React` · `Node.js` · `Express.js` · `MongoDB` · `Tailwind CSS`
 
 🔗 https://github.com/Amitsengupta332/restaurant
@@ -63,7 +64,7 @@
 ### 🌐 Portfolio Website
 📌 Personal portfolio showcasing projects, skills, and animations.
 
-**Tech Stack**
+**Tech Stack**  
 `React` · `Tailwind CSS` · `Framer Motion`
 
 🔗 https://amitsengupta.netlify.app/
@@ -87,6 +88,7 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Amitsengupta332&theme=tokyonight&hide_border=true" />
 </p>
@@ -98,7 +100,35 @@
 
 ---
 
+## 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amitsengupta332&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" />
+</p>
+
+---
+
+## 🔍 Profile Summary
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amitsengupta332&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Amitsengupta332&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Amitsengupta332&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
 ## 🎯 Currently Looking For
 - Junior Backend Developer / Full Stack Developer roles  
 - Internship or entry-level opportunities  
-- Teams where I can grow and contribute long-term
+- Teams where I can grow, learn, and contribute long-term
