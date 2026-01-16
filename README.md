@@ -11,9 +11,10 @@
 ## 👨‍💻 About Me
 - 🚀 Backend-focused Full Stack Developer  
 - 🛠 Skilled in building **RESTful APIs**, **JWT authentication**, and **role-based access control**
-- 🗄 Strong interest in **PostgreSQL**, database design, normalization & query optimization
+- 🧠 Comfortable designing APIs from scratch, including validation, error handling, and access control
+- 🗄 Strong interest in **PostgreSQL**, database design, normalization, and query optimization
 - 🎨 Comfortable with **React, Tailwind CSS & Framer Motion**
-- 🌱 Currently deepening knowledge in **PostgreSQL & backend architecture**
+- 🌱 Currently deepening my knowledge in **PostgreSQL & backend architecture**
 - 📫 Reach me at **amitsengupta332@gmail.com**
 
 ---
@@ -95,7 +96,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amitsengupta332&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitsengupta332&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitsengupta332&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 ---
@@ -116,19 +117,4 @@
 
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amitsengupta332&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amitsengupta332&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 🎯 Currently Looking For
-- Junior Backend Developer / Full Stack Developer roles  
-- Internship or entry-level opportunities  
-- Teams where I can grow, learn, and contribute long-term
+  <img src="https://github-profile-trophy.vercel.app/?username=Amitse
