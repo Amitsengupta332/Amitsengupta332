@@ -6,6 +6,10 @@
   with a strict focus on performance, security, and maintainability.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Amitsengupta332&label=Profile+Views&color=58a6ff&style=flat-square" alt="Views" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -18,11 +22,13 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-sengupta-400083291/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amitsengupta332)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://amitsengupta.netlify.app/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/amith.sen.37)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitsengupta332@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/amit-sengupta-400083291/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Amitsengupta332" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://amitsengupta.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.facebook.com/amith.sen.37" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="mailto:amitsengupta332@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
 ---
 
@@ -88,13 +94,6 @@
 ## 📈 Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amitsengupta332&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" alt="Activity Graph"/>
-</p>
-
----
-
-## 🔍 Profile Summary
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amitsengupta332&theme=tokyonight" alt="Profile Summary"/>
 </p>
 
 ---
